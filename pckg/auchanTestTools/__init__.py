@@ -1,1 +1,1 @@
-from auchanTestTools.testing_tools import TestTools
+from pckg.auchanTestTools import testing_tools

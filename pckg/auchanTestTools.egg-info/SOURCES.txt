@@ -2,6 +2,7 @@ README.md
 setup.cfg
 setup.py
 auchanTestTools/__init__.py
+auchanTestTools/test.py
 auchanTestTools/testing_tools.py
 auchanTestTools.egg-info/PKG-INFO
 auchanTestTools.egg-info/SOURCES.txt
